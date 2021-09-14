@@ -5,7 +5,7 @@ The parsing tree is used to analyze how errors flow from input nodes to the fina
 
 It takes a lustre file and a test suite file for the lustre program as inputs and yields error flow information as output.
 
-This code is a base code for experiments performed in the following paper.
+This code is a base code to perform experiments in the following paper.
 
 ```BibTeX
 @INPROCEEDINGS{ErrorpropagationTree,
