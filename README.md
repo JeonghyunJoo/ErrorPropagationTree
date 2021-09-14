@@ -14,3 +14,11 @@ This code is a base code for experiments performed in the following paper.
   pages={398-401}
 }
 ```
+
+# External libraries
+This code requires three external libraries: antlr4, jackson-core, jackson-databind
+Work with maven system, you can easily get those libraries. In this case, please refer to the 'pom.xml' file in this repo.
+Or you can explicitly download required jar files and add your project.
+- antlr4 : https://mvnrepository.com/artifact/org.antlr/antlr4-runtime/4.7.2
+- jackson-core : https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/2.12.3
+- jackson-databind : https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.12.3
