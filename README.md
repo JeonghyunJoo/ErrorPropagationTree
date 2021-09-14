@@ -5,6 +5,7 @@ It takes a lustre file and a test suite file for the lustre program as inputs an
 
 This code is a base code for experiments performed in the following paper.
 
+```BibTeX
 @INPROCEEDINGS{ErrorpropagationTree,
   author={Joo, Jeonghyun and Yoo, Seunghoon and Park, Myunghwan},
   booktitle={2020 IEEE 13th International Conference on Software Testing, Validation and Verification (ICST)}, 
@@ -12,3 +13,4 @@ This code is a base code for experiments performed in the following paper.
   year={2020},
   pages={398-401}
 }
+```
